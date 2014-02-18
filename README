@@ -1,0 +1,3 @@
+This is a simple project name Meal Planner. As the name suggests it can manage the meal system of any organization.
+Two types of users can use the system. Admin will have the power of assigining new food items and add meal description by logging in.
+Normal users with just login with their name and email and see the home page which contains the meal descriptions of various meals of various days. All the users can like or dislike a specific meal.
