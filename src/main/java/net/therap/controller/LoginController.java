@@ -38,6 +38,10 @@ public class LoginController {
                                ModelMap modelMap) {
 
         User user = userService.checkLogin(name, email);
+        if (user == null) {
+            modelMap.addAttribute("error", true);
+            return "login";
+        }
 
         if (user != null) {
             if (user.getAdmin() == 1) {

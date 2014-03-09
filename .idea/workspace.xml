@@ -4,10 +4,10 @@
     <list default="true" id="9a246b87-3f36-4297-8ae5-26160ee9970e" name="Default" comment="" />
     <ignored path="MealPlanner.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/fragment.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392275791262" ignored="false" />
+    <file path="/fragment.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093121362" ignored="false" />
     <file path="$PROJECT_DIR$/../FinalProject/TherapMealPlanner/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392183959657" ignored="false" />
-    <file path="/mvc-dispatcher-servlet.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392183954367" ignored="false" />
-    <file path="/persistence.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392693526225" ignored="false" />
+    <file path="/mvc-dispatcher-servlet.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392795198638" ignored="false" />
+    <file path="/persistence.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394094743307" ignored="false" />
     <file path="$PROJECT_DIR$/../TherapMealPlanner/src/main/resources/META-INF/persistence.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392184786020" ignored="false" />
     <file path="/LoginController.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392708414615" ignored="false" />
     <file path="$PROJECT_DIR$/src/main/java/net/therap/model/Meal.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392186139716" ignored="false" />
@@ -15,24 +15,24 @@
     <file path="/MealDescriptionDaoImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392708043986" ignored="false" />
     <file path="/MealDescriptionService.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392699516613" ignored="false" />
     <file path="/MealDescriptionServiceImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392708163296" ignored="false" />
-    <file path="/addMeal.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392620003763" ignored="false" />
-    <file path="/successfullyAddedMeal.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392709317013" ignored="false" />
-    <file path="/MealDescriptionController.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392611889597" ignored="false" />
+    <file path="/addMeal.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392810344716" ignored="false" />
+    <file path="/successfullyAddedMeal.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392781356203" ignored="false" />
+    <file path="/MealDescriptionController.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392810274730" ignored="false" />
     <file path="/LogOutController.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392709215381" ignored="false" />
     <file path="/MealDescription.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392636284089" ignored="false" />
-    <file path="/addFoodItem.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392710520693" ignored="false" />
-    <file path="/login.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392219727770" ignored="false" />
-    <file path="/FoodItemAdditionController.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392228321277" ignored="false" />
+    <file path="/addFoodItem.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392888897686" ignored="false" />
+    <file path="/login.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392792759573" ignored="false" />
+    <file path="/FoodItemAdditionController.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392888751572" ignored="false" />
     <file path="/FoodItemDaoImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392654204706" ignored="false" />
     <file path="/FoodItemDao.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392267280076" ignored="false" />
     <file path="/FoodItemServiceImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392271576558" ignored="false" />
     <file path="/HomePageController.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392708838119" ignored="false" />
-    <file path="/adminPage.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392708826217" ignored="false" />
-    <file path="/homePage.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392715883019" ignored="false" />
+    <file path="/adminPage.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392722327363" ignored="false" />
+    <file path="/homePage.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392783753461" ignored="false" />
     <file path="/compare.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392277183595" ignored="false" />
     <file path="/AllPageRedirectionController.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392706340058" ignored="false" />
     <file path="/FoodRating.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392630870672" ignored="false" />
-    <file path="/success.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392714801595" ignored="false" />
+    <file path="/success.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394088897232" ignored="false" />
     <file path="/LikeController.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392546130947" ignored="false" />
     <file path="$PROJECT_DIR$/../MVCDemo/src/java/net/therap/controllers/LoginController.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392540221672" ignored="false" />
     <file path="/FoodratingDao.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392545879831" ignored="false" />
@@ -43,9 +43,133 @@
     <file path="/FoodRatingDao.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392618442407" ignored="false" />
     <file path="/FoodRatingController.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392716095378" ignored="false" />
     <file path="/User.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392607892721" ignored="false" />
-    <file path="/FoodItem.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392612566893" ignored="false" />
+    <file path="/FoodItem.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392800101194" ignored="false" />
     <file path="$PROJECT_DIR$/../fromPenDrive/MealPlanner/src/main/resources/META-INF/persistence.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392621392763" ignored="false" />
     <file path="$PROJECT_DIR$/../MVCDemo/web/success.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392714806474" ignored="false" />
+    <file path="/style.css" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392780034597" ignored="false" />
+    <file path="/a.txt" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392788504605" ignored="false" />
+    <file path="$PROJECT_DIR$/../MovieM/src/main/resources/META-INF/persistence.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392792698972" ignored="false" />
+    <file path="/FoodItemValidator.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392888223547" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/net/therap/controller/Valid.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392800274555" ignored="false" />
+    <file path="$PROJECT_DIR$/../SpringMVCForm/src/main/java/com/mkyong/customer/validator/CustomerValidator.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392802417326" ignored="false" />
+    <file path="$PROJECT_DIR$/../ValidatorTest/src/main/java/net/therap/MyUser.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392808791498" ignored="false" />
+    <file path="$PROJECT_DIR$/../ValidatorTest/src/main/java/net/therap/Max.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392808902072" ignored="false" />
+    <file path="/Max.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392808898669" ignored="false" />
+    <file path="$PROJECT_DIR$/../ValidatorTest/pom.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392809369184" ignored="false" />
+    <file path="/ItemValidator.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392811434120" ignored="false" />
+    <file path="/a.dummy" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394092849393" ignored="false" />
+    <file path="/messages.properties" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1392871173072" ignored="false" />
+    <file path="/ExcelProcessor.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394097011552" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/ExcelReader/src/xlreader/ExcelProcessor.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394018128648" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/ExcelReader/.idea/workspace.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1393738721843" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/ExcelReader/src/xlreader/Main.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394015809394" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/ExcelReader/persistence.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1393991334372" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/ExcelReader/ExcelReader.iml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1393999747213" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/suite/main/src/main/java/net/therap/provAdmin/web/MedicalContactExcelProcessor.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1393995012737" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/suite/main/src/main/java/net/therap/common/dao/MedicalContactDaoImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1393996005173" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/ExcelReader/src/xlreader/AppointmentsService.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1393997680697" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/ExcelReader/src/xlreader/AppointmentsDao.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1393998639732" ignored="false" />
+    <file path="/AppointmentsDao.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394015213942" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/ExcelReader/src/service/AppointmentsService.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394015650108" ignored="false" />
+    <file path="/AppointmentsService.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394001173811" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/ExcelReader/src/service/AppointmentsServiceImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394018180844" ignored="false" />
+    <file path="/AppointmentsServiceImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394018179371" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/ExcelReader/src/dao/AppointmentsDao.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394015217053" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/ExcelReader/src/dao/AppointmentsdaoImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1393998889169" ignored="false" />
+    <file path="/AppointmentsdaoImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1393999216232" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/ExcelReader/src/dao/AppointmentsDaoImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394017800344" ignored="false" />
+    <file path="/AppointmentsDaoImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394017799108" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/ExcelReader/src/xlreader/Validators.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394001888236" ignored="false" />
+    <file path="/Validators.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394001863401" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/suite/main/src/main/java/net/therap/iss/hlth/dao/AppointmentsDaoImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394010852729" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/suite/db-mapping/src/main/java/net/therap/db/entity/common/ClientDetail.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394011561159" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/ExcelM/src/main/resources/web.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394019809232" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/ExcelM/pom.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394024258608" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/ExcelM/src/main/resources/spring-config.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394020329052" ignored="false" />
+    <file path="/spring-config.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394020126131" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/untitled1/pom.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394024775525" ignored="false" />
+    <file path="/pom.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394085534195" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/untitled1/src/main/resources/META-INF/persistence.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394022490733" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/untitled1/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394024150160" ignored="false" />
+    <file path="/Dummy.txt" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394024208080" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/untitled1/src/main/java/net/therap/dao/AppointmentsDaoImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394024443797" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/untitled1/src/main/java/net/therap/dao/AppointmentsDao.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394024443797" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/untitled1/src/main/java/net/therap/service/AppointmentsService.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394024649331" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/untitled1/src/main/java/net/therap/service/AppointmentsServiceImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394024727695" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/untitled1/src/main/java/net/therap/util/ExcelCellReaderUtil.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394024713252" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/untitled1/src/main/java/net/therap/util/StringUtils.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394024713252" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/untitled1/src/main/java/net/therap/util/ValidatorUtils.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394024713252" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/untitled1/src/main/java/net/therap/xlreader/PropertyMapper.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394024823165" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/untitled1/src/main/java/net/therap/xlreader/ExcelProcessor.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394024879005" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/untitled1/src/main/java/net/therap/xlreader/Validators.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394024871813" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/untitled1/src/main/java/net/therap/xlreader/Main.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394027039761" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/privilege-clean-up/dependency-reduced-pom.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394025125289" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/privilege-clean-up/src/main/java/net/therap/admin/PrivilegeCleanerServiceImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394025125289" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/privilege-clean-up/src/main/resources/db.properties" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394025125289" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/privilege-clean-up/src/main/java/net/therap/PrivilegeCleaner.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394027869017" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/privilege-clean-up/pom.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394025125289" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/privilege-clean-up/src/main/java/net/therap/admin/PrivilegeCleanerService.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394025125289" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/privilege-clean-up/src/main/resources/spring-config.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394025125289" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/privilege-clean-up/src/main/resources/log4j.properties" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394025125289" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/privilege-clean-up/run.sh" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394025125289" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/privilege-clean-up/.gitignore" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394025125289" ignored="false" />
+    <file path="/Main.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394091155361" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/untitled1/src/main/java/net/therap/HelloController.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394026130965" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/XLR/src/main/java/com/springapp/mvc/Tester.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394027420569" ignored="false" />
+    <file path="/Tester.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394027397859" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/XLR/src/main/java/com/springapp/mvc/HelloController.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394027415049" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/XLR/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394027781806" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/XLR/pom.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394027536480" ignored="false" />
+    <file path="/PrivilegeCleaner.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394027862852" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/resources/Validators.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394085413980" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap/xlreader/Validators.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093397253" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap/xlreader/ExcelProcessor.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394097016285" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/resources/AppointmentsExcelProcessor-servlet.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394094698075" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/pom.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394091316634" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/webapp/WEB-INF/pages/hello.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394088557768" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/java/net/therap/test.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394092010097" ignored="false" />
+    <file path="/test.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394089862992" ignored="false" />
+    <file path="/hello.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394088557768" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/webapp/WEB-INF/pages/success.jsp" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394088897905" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/java/net/therap/util/ValidatorUtils.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394089475850" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/java/net/therap/util/ExcelCellReaderUtil.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394089475850" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/java/net/therap/service/AppointmentsServiceImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394089475850" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/java/net/therap/service/AppointmentsService.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394089475850" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/java/net/therap/util/StringUtils.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394089475850" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/java/net/therap/dao/AppointmentsDao.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394089475850" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/java/net/therap/dao/AppointmentsDaoImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394089475850" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/pom.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394089094902" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394089154401" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/resources/persistence.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394089271823" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/java/net/therap/xlreader/PropertyMapper.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394089817801" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/java/net/therap/xlreader/Validators.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394089817800" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/java/net/therap/xlreader/ExcelProcessor.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394092311711" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/java/net/therap/xlreader/Main.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394089534522" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/java/net/therap/xlreader/HelloController.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394089691592" ignored="false" />
+    <file path="$USER_HOME$/AppointmentsMVC/src/main/java/net/therap/xlreader/test.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394089694423" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap/xlreader/Main.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093397253" ignored="false" />
+    <file path="/AppointmentsExcelProcessor-servlet.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394094458423" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/resources/persistence.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394094364626" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap2/xlreader/Main.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093090359" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap2/service/AppointmentsService.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093090359" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap2/util/StringUtils.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093090359" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap2/xlreader/Validators.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093090614" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap2/xlreader/PropertyMapper.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093090359" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap2/service/AppointmentsServiceImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093090359" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap2/xlreader/ExcelProcessor.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093090614" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap2/util/ValidatorUtils.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093090359" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap2/util/ExcelCellReaderUtil.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093090359" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap2/dao/AppointmentsDao.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093090359" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap2/dao/AppointmentsDaoImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093090359" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap/service/AppointmentsService.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093397253" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap/util/StringUtils.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093397253" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap/xlreader/PropertyMapper.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093397253" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap/service/AppointmentsServiceImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093397253" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap/util/ValidatorUtils.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093397253" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap/util/ExcelCellReaderUtil.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093397253" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap/dao/AppointmentsDao.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394093397253" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/java/net/therap/dao/AppointmentsDaoImpl.java" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394097118156" ignored="false" />
+    <file path="$USER_HOME$/projects/therap/AppointmentsExcelProcessor/src/main/resources/META-INF/persistence.xml" changelist="9a246b87-3f36-4297-8ae5-26160ee9970e" time="1394094744788" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +226,7 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -111,73 +236,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FoodItemServiceImpl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/service/FoodItemServiceImpl.java">
+      <file leaf-file-name="mvc-dispatcher-servlet.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="18" selection-start="612" selection-end="612" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="1756" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MealDescriptionController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/MealDescriptionController.java">
+      <file leaf-file-name="login.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/login.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="25" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/model/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="20" selection-start="1014" selection-end="1014" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AllPageRedirectionController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/AllPageRedirectionController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="13" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="persistence.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FoodItemAdditionController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/FoodItemAdditionController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="13" selection-start="674" selection-end="674" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FoodRatingController.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/FoodRatingController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="59" selection-start="1567" selection-end="1567" vertical-scroll-proportion="0.8265896">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomePageController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/HomePageController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="13" selection-start="635" selection-end="635" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -186,16 +257,70 @@
       <file leaf-file-name="homePage.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/homePage.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="15" selection-start="1226" selection-end="1226" vertical-scroll-proportion="-12.5">
+            <state line="50" column="18" selection-start="2193" selection-end="2193" vertical-scroll-proportion="-14.5">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MealDescriptionServiceImpl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/service/MealDescriptionServiceImpl.java">
+      <file leaf-file-name="success.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/success.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="13" selection-start="493" selection-end="493" vertical-scroll-proportion="0.0">
+            <state line="19" column="14" selection-start="644" selection-end="644" vertical-scroll-proportion="-11.875">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="successfullyAddedMeal.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/successfullyAddedMeal.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="14" selection-start="660" selection-end="660" vertical-scroll-proportion="-11.875">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/ListController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="30" selection-start="658" selection-end="658" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="11" selection-start="724" selection-end="724" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AllPageRedirectionController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/AllPageRedirectionController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="32" selection-start="1055" selection-end="1055" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogOutController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/LogOutController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="0" selection-start="696" selection-end="696" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MealDescriptionController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/MealDescriptionController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="13" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -211,22 +336,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/net/therap/dao/MealDescriptionDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/net/therap/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/net/therap/dao/UserDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/net/therap/controller/MealDescriptionController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
         <option value="$PROJECT_DIR$/src/main/java/net/therap/controller/LoginController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/net/therap/controller/HomePageController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/net/therap/controller/AllPageRedirectionController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/userPage.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/addFoodItem.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/net/therap/controller/Valid.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/therap/controller/MealDescriptionController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/addMeal.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/net/therap/controller/ItemValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/therap/model/FoodItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/therap/controller/AllPageRedirectionController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/adminPage.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/successfullyAddedMeal.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/net/therap/controller/ListController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/net/therap/service/FoodItemServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/homePage.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/net/therap/controller/FoodRatingController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/messages.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/addFoodItem.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/net/therap/controller/FoodItemAdditionController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/therap/validator/FoodItemValidator.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -244,11 +369,14 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="PerforceDirect.Settings">
+    <option name="ENABLED" value="false" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="64" />
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1217" />
-    <option name="height" value="1029" />
+    <option name="height" value="1001" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -297,7 +425,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -404,11 +531,85 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MealPlanner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MealPlanner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MealPlanner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MealPlanner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="META-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MealPlanner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MealPlanner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="therap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="validator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -535,21 +736,30 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="OverrideImplement.combined" value="true" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="tasks.servers" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="TODO_SCOPE" value="All" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -559,7 +769,11 @@
       <recent name="net.therap.dao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="net.therap.controller" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 7.0">
@@ -764,6 +978,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9a246b87-3f36-4297-8ae5-26160ee9970e" name="Default" comment="" />
@@ -772,37 +1003,57 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-4" width="1217" height="1029" extended-state="6" />
+    <frame x="64" y="24" width="1217" height="1001" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24550898" sideWeight="0.7144482" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34129694" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36393806" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2764505" sideWeight="0.3336185" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32820514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32934132" sideWeight="0.7212742" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27872583" sideWeight="0.9982891" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31993157" sideWeight="0.67007965" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42662117" sideWeight="0.6655261" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -838,7 +1089,7 @@
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
     <option name="LIMIT_HISTORY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
@@ -871,118 +1122,193 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/dao/FoodItemDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/MealPlanner.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="13" selection-start="439" selection-end="439" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="5" column="0" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/dao/FoodItemDao.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="17" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/service/FoodItemService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="17" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/service/MealDescriptionService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="17" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="17" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/service/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="17" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/service/MealDescriptionServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="13" selection-start="493" selection-end="493" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/service/FoodItemServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="18" selection-start="612" selection-end="612" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/MealDescriptionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="25" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="20" selection-start="1014" selection-end="1014" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/FoodItemAdditionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="13" selection-start="674" selection-end="674" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/AllPageRedirectionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0">
+        <state line="89" column="3" selection-start="2863" selection-end="3067" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/homePage.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="15" selection-start="1226" selection-end="1226" vertical-scroll-proportion="-12.5">
+        <state line="8" column="108" selection-start="655" selection-end="674" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/HomePageController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="13" selection-start="635" selection-end="635" vertical-scroll-proportion="0.0">
+        <state line="32" column="46" selection-start="1082" selection-end="1082" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/FoodRatingController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="59" selection-start="1567" selection-end="1567" vertical-scroll-proportion="0.8265896">
+        <state line="45" column="37" selection-start="1535" selection-end="1556" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/FoodItemAdditionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="12" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/MealDescriptionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="13" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/ListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="30" selection-start="658" selection-end="658" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="11" selection-start="724" selection-end="724" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/homePage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="18" selection-start="2193" selection-end="2193" vertical-scroll-proportion="-14.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/success.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="14" selection-start="644" selection-end="644" vertical-scroll-proportion="-11.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/successfullyAddedMeal.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="14" selection-start="660" selection-end="660" vertical-scroll-proportion="-11.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/LogOutController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="696" selection-end="696" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/therap/controller/AllPageRedirectionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="32" selection-start="1055" selection-end="1055" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1756" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>MealPlanner:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>JPA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MealPlanner</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 

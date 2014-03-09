@@ -18,10 +18,10 @@ public class AllPageRedirectionController {
         return "addFoodItem";
     }
 
-    @RequestMapping(value = "/redirectedAddItemPage", method = RequestMethod.POST)
-    public String redirectToAddItem() {
-        return "addFoodItem";
-    }
+//    @RequestMapping(value = "/redirectedAddItemPage", method = RequestMethod.POST)
+//    public String redirectToAddItem() {
+//        return "addFoodItem";
+//    }
 
     @RequestMapping(value = "/toAdminPage", method = RequestMethod.GET)
     public String redirectToAdminFromFoodItem() {

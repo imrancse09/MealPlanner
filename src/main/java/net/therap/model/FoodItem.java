@@ -1,5 +1,7 @@
 package net.therap.model;
 
+import com.sun.istack.internal.NotNull;
+
 import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -15,13 +17,16 @@ import java.util.List;
 @Table(name = "FoodItem")
 public class FoodItem {
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "foodItemId")
     private int foodItemId;
 
     @Column(name = "foodItemName")
+    @NotNull
     private String foodItemName;
 
     @Column(name = "foodItemCreationDate")
+    @NotNull
     private String foodItemCreationDate;
 
     @OneToMany(mappedBy = "foodItem", cascade = CascadeType.ALL)
@@ -30,8 +35,7 @@ public class FoodItem {
     @ManyToOne(cascade = CascadeType.ALL)
     private User user;
 
-    public FoodItem(int itemId, String name, String date, User user) {
-        foodItemId = itemId;
+    public FoodItem(String name, String date, User user) {
         foodItemName = name;
         foodItemCreationDate = date;
         this.setUser(user);

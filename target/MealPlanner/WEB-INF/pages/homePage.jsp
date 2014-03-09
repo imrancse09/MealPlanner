@@ -6,53 +6,49 @@
 <html>
 <head>
     <title>HomePage</title>
+    <link rel="stylesheet" type="text/css" href="<c:url value="/resources/css/style.css"/>"/>
 </head>
 <body>
+<div id="headings"><h1 align="left"> HOME </h1></div>
+        <table border="1" width="900">
+            <thead>
+            <tr colspan = "10">
+                <th colspan="150">Meal Description ID</th>
+                <th colspan="150">Food Item ID</th>
+                <th colspan="150">Food Item Name</th>
+                <th colspan="150">Date of the Meal</th>
+                <th colspan="150">Meal ID</th>
+                <th colspan="150">Meal Name</th>
+                <th colspan="150">#Likes</th>
+                <th colspan="150">#DisLikes</th>
+            </tr>
+            </thead>
+            <tbody>
 
-<table border="1" width="900">
-    <thead>
-    <tr colspan = "10">
-        <th colspan="150">Meal Description ID</th>
-        <th colspan="150">Food Item ID</th>
-        <th colspan="150">Food Item Name</th>
-        <th colspan="150">Date of the Meal</th>
-        <th colspan="150">Meal ID</th>
-        <th colspan="150">Meal Name</th>
-        <th colspan="150">#Likes</th>
-        <th colspan="150">#DisLikes</th>
-    </tr>
-    </thead>
-    <tbody>
+        <c:forEach var = "mealDescriptionListVar" items = "${mealDescriptionList}">
+        <form action="/countLikeDislike" method=post>
 
-    <c:forEach var = "mealDescriptionListVar" items = "${mealDescriptionList}">
-    <form action="/countLikeDislike" method=post>
+            <tr colspan = "10">
 
-        <tr colspan = "10">
-
-            <td colspan="150">${mealDescriptionListVar.mealDescriptionId}</td>
-            <td colspan="150">${mealDescriptionListVar.foodItem.foodItemId}</td>
-
-
-
-            <td colspan="150">
-                <input type="hidden" name="likeButton3" value="${mealDescriptionListVar.mealDescriptionId}">
-                <%--<input type="hidden" name="likeButton4" value="dislike">--%>
-                <input type="SUBMIT" name="like" value="Like"><input type="SUBMIT" name="dislike" value="DisLike">${mealDescriptionListVar.foodItemName}
-            </td>
-
-            <td colspan="150">${mealDescriptionListVar.mealDescriptionCreationDate}</td>
-            <td colspan="150">${mealDescriptionListVar.mealId}</td>
-            <td colspan="150">${mealDescriptionListVar.mealName}</td>
-            <td colspan="150">${mealDescriptionListVar.likes}</td>
-            <td colspan="150">${mealDescriptionListVar.disLikes}</td>
-        </tr>
-    </form>
-    </c:forEach>
-    </tbody>
-</table>
-
+                <td colspan="150">${mealDescriptionListVar.mealDescriptionId}</td>
+                <td colspan="150">${mealDescriptionListVar.foodItem.foodItemId}</td>
+                <td colspan="150">
+                    <input type="hidden" name="likeButton3" value="${mealDescriptionListVar.mealDescriptionId}">
+                    <input type="SUBMIT" name="like" value="Like"><input type="SUBMIT" name="dislike" value="DisLike">${mealDescriptionListVar.foodItemName}
+                </td>
+                <td colspan="150">${mealDescriptionListVar.mealDescriptionCreationDate}</td>
+                <td colspan="150">${mealDescriptionListVar.mealId}</td>
+                <td colspan="150">${mealDescriptionListVar.mealName}</td>
+                <td colspan="150">${mealDescriptionListVar.likes}</td>
+                <td colspan="150">${mealDescriptionListVar.disLikes}</td>
+            </tr>
+        </form>
+        </c:forEach>
+        </tbody>
+        </table>
 </body>
-<form action="/loginPage" method="GET">
-    <input type="submit" value="logout"/>
-</form>
+<br>
+    <form action="/loginPage" method="GET">
+        <input type="submit" value="logout"/>
+    </form>
 </html>

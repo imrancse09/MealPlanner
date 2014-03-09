@@ -5,6 +5,7 @@ import net.therap.model.MealDescription;
 import net.therap.service.FoodItemService;
 import net.therap.service.MealDescriptionService;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -24,7 +25,7 @@ public class MealDescriptionController {
     @RequestMapping(value = "/addMealDesc", method = RequestMethod.POST)
     public String addMealDescription(@RequestParam("select") String mealName,
                                      @RequestParam("foodList") String[] foodItem,
-                                     @RequestParam("date") String mealCreationDate) {
+                                     @RequestParam("date") String mealCreationDate, ModelMap modelMap) {
         final String Breakfast = "Breakfast";
         final String Lunch = "Lunch";
         final String EveningSnacks = "Evening Snacks";
@@ -33,7 +34,10 @@ public class MealDescriptionController {
         map.put("Breakfast", 0);
         map.put("Lunch", 1);
         map.put("Evening Snacks", 2);
-
+        if(mealName.equals("")||foodItem.equals("")||mealCreationDate.equals("")) {
+            modelMap.addAttribute("error", true);
+            return "addMeal";
+        }
         if( mealName.equals("Breakfast") || mealName.equals("Lunch") || mealName.equals("Evening Snacks") ) {
             for (int counter = 0; counter<foodItem.length; counter++) {
                 String itemName = foodItem[counter];
